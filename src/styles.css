@@ -1,0 +1,10 @@
+.task {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 5px 0;
+  }
+  nav a {
+    margin: 0 10px;
+    text-decoration: none;
+  }
+  
